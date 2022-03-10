@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import PersonCard from './people';
+import PersonCard from './components/PersonCard';
 
 function App() {
   return (
